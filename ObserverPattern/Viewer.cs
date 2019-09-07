@@ -38,7 +38,6 @@ namespace ObserverPattern
             {
                 Console.WriteLine(ViewerName + " sees the " + score.GetType().Name + " updated to " + score.theScore + "!\n");
             }
-
         }
     }
 }
